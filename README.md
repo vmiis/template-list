@@ -1,5 +1,5 @@
 [Source](https://github.com/vmiis/a-basic-application-framework) | [A basic application framework](https://vmiis.github.io/a-basic-application-framework/)  
-[Source](https://github.com/vmiis/my-first-hello-world-module-in-an-application) | [>My first hello world module in an application](https://vmiis.github.io/my-first-hello-world-module-in-an-application/)  
+[Source](https://github.com/vmiis/my-first-hello-world-module-in-an-application) | [My first hello world module in an application](https://vmiis.github.io/my-first-hello-world-module-in-an-application/)  
 [Source](https://github.com/vmiis/how-to-add-a-module-to-collect-contact-information) | [How to add a module to collect contact information](https://vmiis.github.io/how-to-add-a-module-to-collect-contact-information/)  
 [Source](https://github.com/vmiis/bookkeeping) | [Bookkeeping](https://vmiis.github.io/bookkeeping/)  
 [Source](https://github.com/vmiis/template-001) | [Bootstrap 4 and database function](https://vmiis.github.io/template-001/)  
