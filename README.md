@@ -13,6 +13,7 @@
 [Source](https://github.com/vmiis/template-006) | [Room booking](https://vmiis.github.io/template-006/)  
 [Source](https://github.com/vmiis/template-009) | [Survey](https://vmiis.github.io/template-009/)  
 [Source](https://github.com/vmiis/workplace-inspection) | [Workplace inspection](https://vmiis.github.io/workplace-inspection/)  
+[Source](https://github.com/vmiis/team-event-calendar) | [Workplace inspection](https://vmiis.github.io/team-event-calendar/)  
 [Source](https://github.com/vmiis/woolcock-app-template) | [Woolcock app template](https://vmiis.github.io/woolcock-app-template/)  
 [Source](https://github.com/woolcock-imr/anazes) | [AMAZES](https://woolcock-imr.github.io/amazes/index.html?database=development)  
 [Source](https://github.com/woolcock-imr/cpaphdeeg-2-online-questionnaire) | [CPAPHDEEG online-questionnaire](https://woolcock-imr.github.io/cpaphdeeg-2-online-questionnaire/index.html?database=development)  
