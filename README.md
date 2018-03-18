@@ -9,6 +9,7 @@
 [Source](https://github.com/vmiis/template-008) | [Enquiry](https://vmiis.github.io/template-008/)  
 [Source](https://github.com/vmiis/template-003) | [Fitness](https://vmiis.github.io/template-003/)  
 [Source](https://github.com/vmiis/incident-reporting) | [Incident reporting](https://vmiis.github.io/incident-reporting/)  
+[Source](https://github.com/vmiis/invoice) | [Invoice](https://vmiis.github.io/invoice/)  
 [Source](https://github.com/vmiis/template-004) | [Medical practitioner](https://vmiis.github.io/template-004/)  
 [Source](https://github.com/vmiis/template-002) | [Restaurant](https://vmiis.github.io/template-002/)  
 [Source](https://github.com/vmiis/template-006) | [Room booking](https://vmiis.github.io/template-006/)  
