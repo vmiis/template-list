@@ -16,6 +16,7 @@
 [Source](https://github.com/vmiis/purchase-order-request) | [Purchase order request](https://vmiis.github.io/purchase-order-request/)  
 [Source](https://github.com/vmiis/template-002) | [Restaurant](https://vmiis.github.io/template-002/)  
 [Source](https://github.com/vmiis/template-006) | [Room booking](https://vmiis.github.io/template-006/)  
+[Source](https://github.com/vmiis/sales-tracking) | [Sales tracking](https://vmiis.github.io/sales-tracking/)  
 [Source](https://github.com/vmiis/template-009) | [Survey](https://vmiis.github.io/template-009/)  
 [Source](https://github.com/vmiis/team-event-calendar) | [Team event calendar](https://vmiis.github.io/team-event-calendar/)  
 [Source](https://github.com/vmiis/workplace-inspection) | [Workplace inspection](https://vmiis.github.io/workplace-inspection/)  
